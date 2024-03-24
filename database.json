@@ -1,0 +1,56 @@
+{
+  "video": [
+    {
+      "id": "1",
+      "caption": "Premalu",
+      "url": "https://www.youtube.com/embed/q3YcX3i1j7A",
+      "image_url": "https://images.moneycontrol.com/static-mcnews/2024/03/Premalu-1.jpg?impolicy=website&width=1600&height=900"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Premalu",
+      "url": "https://www.youtube.com/embed/q3YcX3i1j7A",
+      "timeStamp": "23/03/2024, 17:02",
+      "id": 1
+    },
+    {
+      "caption": "Premalu",
+      "url": "https://www.youtube.com/embed/q3YcX3i1j7A",
+      "timeStamp": "23/03/2024, 17:03",
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "category": "Romantic",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "Premalu",
+          "url": "https://www.youtube.com/embed/q3YcX3i1j7A",
+          "image_url": "https://images.moneycontrol.com/static-mcnews/2024/03/Premalu-1.jpg?impolicy=website&width=1600&height=900"
+        },
+        {
+          "id": "1",
+          "caption": "Premalu",
+          "url": "https://www.youtube.com/embed/q3YcX3i1j7A",
+          "image_url": "https://images.moneycontrol.com/static-mcnews/2024/03/Premalu-1.jpg?impolicy=website&width=1600&height=900"
+        },
+        {
+          "id": "1",
+          "caption": "Premalu",
+          "url": "https://www.youtube.com/embed/q3YcX3i1j7A",
+          "image_url": "https://images.moneycontrol.com/static-mcnews/2024/03/Premalu-1.jpg?impolicy=website&width=1600&height=900"
+        },
+        {
+          "id": "1",
+          "caption": "Premalu",
+          "url": "https://www.youtube.com/embed/q3YcX3i1j7A",
+          "image_url": "https://images.moneycontrol.com/static-mcnews/2024/03/Premalu-1.jpg?impolicy=website&width=1600&height=900"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
